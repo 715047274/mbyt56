@@ -1,19 +1,43 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: 美邦运通国际物流有限公司
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 关于我们
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+美邦运通国际物流有限公司有限公司成立于2004年，公司注册资本200万元。是经深圳市交通局备案，并在深圳市工商局注册成立的一家从事国际货运代理服务的有限责任公司。公司总部位于深圳市宝安区西乡街道后瑞村爱民路7号盈德丰205室
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+深快国际是国际速递巨头TNT在深圳市指定授权的一级服务代理商，是中国ARAMEX的加盟服务商。深快国际同时与UPS、FEDEX等多家国际快递品牌公司有着良好的合作，深快国际自身还拥有独特的空运渠道和直达日本的专线服务。
+
+
+
+本公司拥有健康的运营体系，高效的管理制度，完善的培训机制，活泼的工作氛围，我们将直接面对市场需求，为客户提供热情、优质、可靠的服务。
+
+
+
+本公司拥有健康的运营体系，高效的管理制度，完善的培训机制，活泼的工作氛围，我们将直接面对市场需求，为客户提供热情、优质、可靠的服务。
+
+
+
+产品服务 全球快递服务（Global Express） 标准的门到门快递服务，使用我们的全球快递，我们会在下一工作日或最近可能性的工作日下班前送达您的货件。该服务适用于全球220多个国家或地区。
+
+
+
+经济快递服务（Economy Express） 若您需要可靠而经济的重货快递服务，请选择我们的经济快递。我们通常会在2至5个工作日派送您的货件。该服务适用于全球40多个国家和地区，包括从中国出口和 进口至中国。
+
+
+
+空运服务（Air Freight Service） 若您需要选择空运出口，我们可以为您提供门到机场、门到门的空运服务。在此需要 您提供详细的空运资料，如装箱单（外箱尺寸、毛重）、商业发票、详细的货物品名、 目的地城市名等，同时还需告知我们您什么时候出货、要求什么时候到达。我们会根 据您的需求来安排航班，让您感受到我们贴心的服务。 目前我们主要合作航线：翡翠航空、OZ、CX、EK、QY。
+
+
+
+服务选项： ﹡优先处理：您可以在全球快递的基础上选择优先处理服务。您的文件或包裹的显著位置上都会被贴上特别的优先处理标签，我们会在从取件到派送的整个快递过程中尽可能优先处理您的货件。
+
+
+
+﹡大货处理：不管您选择的是快递出口，还是空运出口；若您在价格上有要求，而在时效和出口方式（网络或航班）上同意我们所安排的出口网络或航班的话，我们可以给到您更多的出口方式选择及经济实惠的价格。s
+
+
+
+深快优势 a. SUK是深圳TNT一级代理商，可提供TNT的所有快递服务； b. SUK拥有独特的日本专线服务； c. SUK可在美国加拿大、墨西哥、澳大利亚、南非、印度等国家为客户提供更好的服务及价格； d. SUK可根据客户需求提供更多的出口渠道，包括：DHL、UPS、FedEx、Aramex、EMS等渠道服务； e. SUK可提供门到港、门到门的空运服务； f. SUK可提供香港、台湾及国际件的进口服务； g. SUK拥有完善的服务体系及货物跟踪查询系统。
